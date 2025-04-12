@@ -92,6 +92,7 @@ main{
 .text-title:hover{
     color: var(--yellow-color) ;
     transition: all 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 .class-description{
