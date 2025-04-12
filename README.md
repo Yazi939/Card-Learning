@@ -92,19 +92,10 @@ cd Card-Learning
   
 </details>
 
-## 👨‍💻 Автор
-
-<div align="center">
-  
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black)](https://www.frontendmentor.io/profile/yourusername)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yazi939)
-
-</div>
-
 ---
 
 <div align="center">
   
-⭐ Этот проект с ❤️ от Yazi939 ⭐
+⭐ Этот проект с ❤️ ⭐
 
 </div>
