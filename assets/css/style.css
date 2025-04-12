@@ -38,9 +38,9 @@ main{
 }
 .card{
     background-color: white;
-    width: 350px;
-    height: 460px;
-    border-radius: 25px;
+    width: 370px;
+    height: 500px;
+    border-radius: 15px;
     border: 1.5px solid black;
     padding: 18px;
     display: flex;
@@ -48,7 +48,7 @@ main{
     -webkit-box-shadow: 10px 10px 0px 2px rgba(0, 0, 0, 1);
     -moz-box-shadow: 10px 10px 0px 2px rgba(0, 0, 0, 1);
     box-shadow: 5px 5px 0px 2px rgba(0, 0, 0, 1);
-    border-radius: 10px; /* Скругляем углы элемента (и тени) */
+     /* Скругляем углы элемента (и тени) */
 }
 .card-image{
     width: 100%;
@@ -75,20 +75,20 @@ main{
     font-family: var(--bold-font);
 }
 .class-published{
-    margin-top: 12px;
+    margin-top: 16px;
 }
 .text-published{
     font-family: var(--medium-font);
     font-weight: lighter;
 }
 .class-title{
-    margin-top: 12px;
+    margin-top: 16px;
 }
 .text-title{
     font-family: var(--bold-font);
 }
 .class-description{
-    margin-top: 12px;
+    margin-top: 16px;
 }
 .text-description{
     font-family: var(--main-font);
@@ -100,7 +100,7 @@ main{
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 30px;
     gap: 10px;
 
 }
