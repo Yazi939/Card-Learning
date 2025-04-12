@@ -86,7 +86,14 @@ main{
 }
 .text-title{
     font-family: var(--bold-font);
+    color: black;
+    transition: 0.3s;
 }
+.text-title:hover{
+    color: var(--yellow-color) ;
+    transition: all 0.3s ease-in-out;
+}
+
 .class-description{
     margin-top: 16px;
 }
